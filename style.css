@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Fuzzy+Bubbles&family=Lato&display=swap');
+
+body{
+    text-align: center;
+    background-color: rgb(201, 201, 250);
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    margin-top: 150px;
+}
+
+div{
+    background-color: rgb(247, 240, 240);
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 20px;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.dropdown{
+    border: 0px;
+}
+h1{
+    text-decoration: none;
+}
+textarea{
+    height: 50px;
+}
+placeholder{
+    height: 100px;
+}
+button{
+    background: rgb(255, 162, 250);
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    box-shadow: 6px 6px 6px#c3e0fd, -6px -6px 6px rgb(255, 219, 219) ;
+}
+button:hover{
+    box-shadow: none;
+}
+
